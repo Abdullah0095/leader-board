@@ -1,0 +1,62 @@
+.container{
+    margin-top: 30px;
+        max-width: 1440px;
+}
+main{
+    height: 680px;
+    width: 870px;
+    margin-left: 250px;
+    
+    
+}
+article{
+    margin-top: 40px;
+    height: 362px;
+    width: 870px;
+    
+}
+.navbar img{
+    width: 51px;
+    height: 51px;
+}
+.navbar{
+    background-color: #562EFF;
+    
+}
+.col-md-4 img{
+    height: 56px;
+    width: 56px;
+}
+.col-md-6 img{
+    height: 117px;
+    width: 117px;
+}
+
+#line{
+    width: 107;
+    border: 1px solid gray;
+    margin: 0px 200px 0px 50px;
+}
+.text-color{
+    color:rgb(27, 4, 112);
+    
+}
+.col-md-6{
+    padding: 20px;
+    
+}
+
+.container-courses .col-md-4 img{
+    height: 104px;
+    width: 224px;
+}
+.container-courses .row{
+    padding-top: 30px;
+}
+.container-courses .col-md-4 .puchki img{
+    height: 11px;
+    width: 74px;
+} 
+.container-courses .col-md-4 .puchki{
+    display: inline-block;
+}
